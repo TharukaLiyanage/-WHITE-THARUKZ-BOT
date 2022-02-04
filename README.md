@@ -52,5 +52,6 @@
 [+] The DaisyX won't run without setting the mandatory vars.
 ```
 
+
 > And credits goes to all who supported, all who helped and API & environmental equirement package devs and all projects helped in making this project.
 > Special thanks to you for using bot
